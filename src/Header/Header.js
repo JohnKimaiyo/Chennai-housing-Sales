@@ -3,7 +3,7 @@ import "./Header.css";
 export default function Header() {
   return (
     <div>
-      <h2>NFT Sales Insight Analysis Business Requests</h2>
+      <h2>Chennai  Sales Insight Analysis Business Requests</h2>
 
       <table>
         <tr>
@@ -77,7 +77,7 @@ export default function Header() {
 
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/NFT-Sales-Insight-Analysis-React-App/blob/main/src/Power%20BI%20Dashboard/NFT%20Sales.pdf"
+              href="https://github.com/JohnKimaiyo/Chennai-housing-Sales/blob/main/src/Power%20BI%20%20Dashboard/Chennai%20Dashboard.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -109,7 +109,7 @@ export default function Header() {
           <td>Check out my Power BI Sales Insights Dashbord File</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/NFT-Sales-Insight-Analysis-React-App/blob/main/src/Power%20BI%20Dashboard/NFT%20Sales%20Dashboard.pbix"
+              href="https://github.com/JohnKimaiyo/Chennai-housing-Sales/blob/main/src/Power%20BI%20%20Dashboard/Chenai%20Dashboard.pbix"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -122,7 +122,7 @@ export default function Header() {
           <td>Checkout sql statement to clean up the data</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/NFT-Sales-Insight-Analysis-React-App/blob/main/src/SQL%20Scripts/dbo.sql"
+              href="https://github.com/JohnKimaiyo/Chennai-housing-Sales/blob/main/src/SQL%20Scripts/dbo.sql"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -131,11 +131,11 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td> NFT  Source Files </td>
-          <td> NFT  Mart Kaggle Dataset</td>
+          <td> Chennai Source Files </td>
+          <td> Chennai  Kaggle Dataset</td>
           <td>
             <a
-              href="https://www.kaggle.com/datasets/mathurinache/nft-history-sales"
+              href="https://www.kaggle.com/datasets/kunwarakash/chennai-housing-sales-price"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -144,11 +144,11 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td> NFT  JSON Files </td>
-          <td> NFT  Mart JSON Dataset</td>
+          <td> Chennai  JSON Files </td>
+          <td> Chennai    JSON Dataset</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/NFT-Sales-Insight-Analysis-React-App/blob/main/src/Source%20Files/nft.json"
+              href="https://github.com/JohnKimaiyo/Chennai-housing-Sales/blob/main/src/Source%20Files/chennai.json"
               target="_blank"
               rel="noopener noreferrer"
             >
